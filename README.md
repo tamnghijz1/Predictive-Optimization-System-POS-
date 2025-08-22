@@ -39,7 +39,7 @@ Social: Support sustainable development goals and foster a greener transportatio
 
 📁 Repository Structure
 
-├── docs/                       (https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/c722b5e0db0c27cf12e8fd37bf35e9a88455cfe3/APPLYING%20GREEN%20AI%20TECHNOLOGY%20TO%20LOGISTICS%20TO%20OPTIMIZE%20TRANSPORTATION%20THROUGH%20MONITORING%20AND%20COLLECTING%20DATA%20ON%20CARBON%20EMISSIONS.pdf)
+├── docs/                       https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/c722b5e0db0c27cf12e8fd37bf35e9a88455cfe3/APPLYING%20GREEN%20AI%20TECHNOLOGY%20TO%20LOGISTICS%20TO%20OPTIMIZE%20TRANSPORTATION%20THROUGH%20MONITORING%20AND%20COLLECTING%20DATA%20ON%20CARBON%20EMISSIONS.pdf
 
 ├── src/                        https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/main/POS.ipynb
 
