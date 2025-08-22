@@ -2,6 +2,7 @@ Predictive Optimization System (POS) for Green Logistics
 Welcome to the Predictive Optimization System (POS), a groundbreaking project aimed at mitigating the environmental impact of the logistics sector through the innovative application of AI and Optimization technology.
 
 📄 Abstract
+
 Climate change is a pressing global challenge, with the transportation sector being a significant source of carbon dioxide (CO_2) emissions. This project introduces a comprehensive methodology that integrates data collected from Portable Emissions Measurement Systems (PEMS) with Machine Learning (ML) technology. The core objective is to make emission reduction a primary goal in transportation operations, moving beyond traditional methods that solely focus on time and cost.
 
 Our system consists of two key stages: first, developing a machine learning model based on the Gradient Boosting algorithm to accurately predict emissions under real driving conditions (RDE), and second, integrating this predictive model into a multi-objective optimization framework solved by the NSGA-II algorithm.
