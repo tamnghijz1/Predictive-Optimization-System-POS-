@@ -36,7 +36,7 @@ Social: Support sustainable development goals and foster a greener transportatio
 📁 Repository Structure
 ├── docs/                       # Research papers and presentations (PDF format)
 ├── src/                        https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/main/POS.ipynb
-├── data/                       # Sample dataset
+├── data/                       https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/main/Data_PV_fleet_2021_EU_PYCSIS.csv
 ├── README.md                   # This page
 🤝 Development Team
 Team Name: Green Warrilogs
