@@ -7,6 +7,7 @@ Climate change is a pressing global challenge, with the transportation sector be
 Our system consists of two key stages: first, developing a machine learning model based on the Gradient Boosting algorithm to accurately predict emissions under real driving conditions (RDE), and second, integrating this predictive model into a multi-objective optimization framework solved by the NSGA-II algorithm.
 
 💡 Problem and Solution
+
 The Problem: Current logistics models often prioritize time and cost, neglecting environmental factors. This leads to inefficient routes from an emissions standpoint.
 
 The Solution: We have developed a system to:
@@ -16,6 +17,7 @@ Predict Emissions: Accurately forecast vehicle emissions based on operational fa
 Optimize Routes: Identify the most efficient routes that balance emission reduction and travel time.
 
 ⚙️ Methodology
+
 The project was executed through the following structured process:
 
 Data Collection and Preprocessing: Utilizing reliable data from sources such as the European Commission's Joint Research Centre (JRC). The data undergoes preprocessing with techniques like the Extended Kalman Filter for cleaning and normalization.
@@ -25,6 +27,7 @@ Emission Prediction Model: We developed an ML model using a Gradient Boosting Ma
 Multi-Objective Optimization: The predictive model is integrated with the NSGA-II algorithm to find optimal routes that consider both environmental and temporal objectives.
 
 📊 Results and Impact
+
 The POS system has the potential for significant impact:
 
 Environmental: Contribute to a substantial reduction in carbon emissions and other pollutants from vehicles.
@@ -34,6 +37,7 @@ Economic: Help logistics businesses optimize operational costs and increase effi
 Social: Support sustainable development goals and foster a greener transportation industry.
 
 📁 Repository Structure
+
 ├── docs/                       (https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/c722b5e0db0c27cf12e8fd37bf35e9a88455cfe3/APPLYING%20GREEN%20AI%20TECHNOLOGY%20TO%20LOGISTICS%20TO%20OPTIMIZE%20TRANSPORTATION%20THROUGH%20MONITORING%20AND%20COLLECTING%20DATA%20ON%20CARBON%20EMISSIONS.pdf)
 
 ├── src/                        https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/main/POS.ipynb
@@ -41,6 +45,7 @@ Social: Support sustainable development goals and foster a greener transportatio
 ├── data/                       https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/main/Data_PV_fleet_2021_EU_PYCSIS.csv
 
 🤝 Development Team
+
 Team Name: Green Warrilogs
 
 Members: Trần Tam Nghi, Tô Quỳnh Anh, Lê Quốc Bảo, Thạch Thảo Vy
