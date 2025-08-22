@@ -33,6 +33,11 @@ Economic: Help logistics businesses optimize operational costs and increase effi
 
 Social: Support sustainable development goals and foster a greener transportation industry.
 
+📁 Repository Structure
+├── docs/                       # Research papers and presentations (PDF format)
+├── src/                        
+├── data/                       # Sample dataset
+├── README.md                   # This page
 🤝 Development Team
 Team Name: Green Warrilogs
 
