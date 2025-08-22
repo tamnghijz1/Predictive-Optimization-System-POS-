@@ -35,7 +35,7 @@ Social: Support sustainable development goals and foster a greener transportatio
 
 📁 Repository Structure
 ├── docs/                       # Research papers and presentations (PDF format)
-├── src/                        
+├── src/                        https://github.com/tamnghijz1/Predictive-Optimization-System-POS-/blob/main/POS.ipynb
 ├── data/                       # Sample dataset
 ├── README.md                   # This page
 🤝 Development Team
