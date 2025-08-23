@@ -51,6 +51,8 @@ Team Name: Green Warrilogs
 
 Members: Trần Tam Nghi, Tô Quỳnh Anh, Lê Quốc Bảo, Thạch Thảo Vy
 
+Leader's number: 0968360606
+
 Email: tttamnghi@gmail.com
 
 This project was developed for the FIATA VLA Logistics Innovation competition.
