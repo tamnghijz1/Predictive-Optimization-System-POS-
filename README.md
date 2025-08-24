@@ -1,4 +1,5 @@
 Predictive Optimization System (POS) for Green Logistics
+
 Welcome to the Predictive Optimization System (POS), a groundbreaking project aimed at mitigating the environmental impact of the logistics sector through the innovative application of AI and Optimization technology.
 
 📄 Abstract
